@@ -22,7 +22,7 @@ html, body, .wrapper{
 
 .block_left{
 background: #fff;
-max-width: 200px;
+max-width: 250px;
 }
 
 
@@ -63,7 +63,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 15px 16px;
+    padding: 16px 16px;
     text-decoration: none;
 }
 
@@ -73,4 +73,8 @@ li a:hover:not(.active) {
 
 .active {
     background-color: #4CAF50;
+}
+
+.left_bar{
+  
 }
