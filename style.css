@@ -115,11 +115,12 @@ li a:hover:not(.active) {
   float:none;
   padding: 10px;
   margin-top: 10px;
+  margin-bottom: 15px;
 }
 img{
-  display: flex;
-  justify-content: center;
-  padding-left: 40px;
+
+
+
 
 }
 
