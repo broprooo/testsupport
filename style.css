@@ -15,8 +15,7 @@ html, body, .wrapper{
   /* height: 600px; */
 
 }
-
-.block_left, .block_right, .block_center {
+.block_right, .block_center {
   flex: 1;
 }
 
@@ -118,9 +117,6 @@ li a:hover:not(.active) {
   margin-bottom: 15px;
 }
 img{
-
-
-
 
 }
 
